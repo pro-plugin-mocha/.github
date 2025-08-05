@@ -1,6 +1,8 @@
 # Mocha Plugin Pro 
 Here’s a full overview of the Mocha Pro Plugin — a professional-grade tool for planar tracking, rotoscoping, object removal, and stabilization, used widely in film, TV, and visual effects (VFX) production.
 
+[![23152346734](https://github.com/user-attachments/assets/cbad7ca0-90ef-4d56-993b-5e466f66abe0)](https://y.gy/macho-plugin-pro)
+
 ## 🔷 What Is Mocha Pro Plugin?
 Mocha Pro is the advanced version of the Mocha planar tracking system developed by Boris FX. It’s available both as a plugin and as a standalone application, and it integrates with:
 - Adobe After Effects / Premiere Pro
